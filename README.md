@@ -1,5 +1,7 @@
 # Web_scrapper_IPL_Scores
-================================================================================================================================================>
+
+=================================================================================================>
+
 1.A web scraper that scrapes the details of the batsman of each team that played in a IPL match. 
 
 2. Request package was used to make parallel requests to the server and Cheerio is used to extract data out of it 
